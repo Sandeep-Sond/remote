@@ -1,0 +1,12 @@
+Git Hub lessons
+Commands for local Git
+git config --global => add global config parameters
+git init => create a local repository ; change directory where repository needed to be created.
+git status => get status of files in repository
+git add => add gfiles to git repository
+git commit -m "message" => commit file to master with message
+
+GitHub
+Create repository and link to local system using command on git via HTTPS or SSH Keys.
+SSH is preferred way as credentials are not prompted very often while working with repository.
+
